@@ -33,3 +33,7 @@ candidates = [
 Point that at wherever the CSVs live (or run in Colab with Drive mounted) and run all cells top to bottom. Requires `pandas`, `numpy`.
 
 See `report.pdf` for the full write-up and findings.
+
+## License
+
+Released under the [MIT License](LICENSE).
